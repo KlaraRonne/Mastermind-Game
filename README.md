@@ -13,3 +13,7 @@ How to Run
 2. Run it in your terminal or IDE:
    ```bash
    python mastermind.py
+
+  ## Author
+This project was created by Klara Ronnenberg
+© 2025 Klara Ronnenberg. All rights reserved.
